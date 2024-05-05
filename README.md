@@ -14,7 +14,7 @@ console = Imprimindo número 1 <br />
 Certifique-se de ter o Java JDK instalado em seu sistema.
 
 1. Clone o repositório:
-git clone [https://github.com/seu-usuario/conta-terminal.git](https://github.com/leonidas144/dio-java-controleFluxo)
+git clone [https://github.com/leonidas144/dio-java-controleFluxo](https://github.com/leonidas144/dio-java-controleFluxo)
 
 2. Navegue até o diretório do projeto:
 cd controle-de-fluxo
